@@ -1,4 +1,12 @@
-# Hi there 👋, I'm Shajibul Hasan
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/shajibulhasan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shajibul+Hasan+Soaib;Full-Stack+Developer;PHP+%7C+Laravel+%7C+MySQL+%7C+JavaScript+%7C+Dart+%7C+C%2B%2B;Open-Source+Enthusiast;From+Chattogram%2C+Bangladesh" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shajibul%20Hasan&fontAlign=50&fontAlignY=40&fontSize=48&color=0:00c6ff,100:0072ff&desc=Full-Stack%20Developer&descAlign=50&descAlignY=65" />
+</p>
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer** from **Chattogram, Bangladesh**, skilled in building scalable web applications and exploring modern technologies.  
