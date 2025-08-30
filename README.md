@@ -42,7 +42,7 @@ Currently, I'm working at **Millennium Solution** and continuously learning new 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: shajibulhasan@gmail.com  
+- 📧 Email: shajibulhasan.puc@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/shajibulhasansoaib/
 
 ---
