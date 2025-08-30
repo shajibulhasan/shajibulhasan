@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shajibul%20Hasan&fontAlign=50&fontAlignY=40&fontSize=48&color=0:00c6ff,100:0072ff&desc=Full-Stack%20Developer&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shajibul%20Hasan%20Soaib&fontAlign=50&fontAlignY=40&fontSize=48&color=0:00c6ff,100:0072ff&desc=Full-Stack%20Developer&descAlign=50&descAlignY=65" />
 </p>
 
 ## 🚀 About Me
