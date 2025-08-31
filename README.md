@@ -45,7 +45,7 @@ Currently, I'm working at **Millennium Solution** and continuously learning new 
 ---
 
 ## 📈 GitHub Activity Graph
-[![Shajibul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shajibulhasan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Shajibul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shajibulhasan&theme=react-dark)](https://github.com/shajibulhasan)  
 
 ---
 
